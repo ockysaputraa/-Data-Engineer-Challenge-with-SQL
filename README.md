@@ -12,3 +12,9 @@ Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code E
 Tampilkan semua produk yang mengandung kata Flashdisk.
 Nama kolom yang harus ditampilkan: no_urut, kode_produk, nama_produk, dan harga.
 Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code Editor.
+
+# Pelanggan Bergelar
+![alt text](https://user-images.githubusercontent.com/25924246/160960359-51a67499-bd40-417e-a611-e4a945ea64e8.png)
+Tampilkan hanya nama-nama pelanggan yang hanya memiliki gelar-gelar berikut: S.H, Ir. dan Drs.
+Nama kolom yang harus ditampilkan: no_urut, kode_pelanggan, nama_pelanggan, dan alamat.
+Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code Editor.
