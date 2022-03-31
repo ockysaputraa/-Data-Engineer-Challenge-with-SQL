@@ -1,5 +1,4 @@
 # Data Engineer Challenge with SQL
-Dengan menyelesaikan project ini, kamu dapat menguji kemampuan dasar SQL menggunakan Bahasa Pemrograman MySQL
 
 # Produk DQLab Mart
 ![alt text](https://user-images.githubusercontent.com/25924246/160959758-8e6709e3-c3f2-422c-9d9f-503c33c52675.png)
