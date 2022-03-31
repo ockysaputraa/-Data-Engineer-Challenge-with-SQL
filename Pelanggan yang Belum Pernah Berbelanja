@@ -1,0 +1,3 @@
+SELECT a.kode_pelanggan, a.nama_pelanggan, a.alamat 
+FROM ms_pelanggan a WHERE a.kode_pelanggan 
+NOT IN(SELECT kode_pelanggan FROM tr_penjualan)
