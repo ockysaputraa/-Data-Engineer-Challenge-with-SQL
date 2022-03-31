@@ -1,0 +1,12 @@
+SELECT a.kode_transaksi, a.kode_pelanggan, b.nama_pelanggan, a.tanggal_transaksi,
+COUNT(c.kode_produk) AS jumlah_detail 
+FROM tr_penjualan a
+JOIN ms_pelanggan b
+ON a.kode_pelanggan = b.kode_pelanggan JOIN tr_penjualan_detail c
+ON a.kode_transaksi = c.kode_transaksi
+GROUP BY
+a.kode_transaksi,
+a.kode_pelanggan,
+b.nama_pelanggan,
+a.tanggal_transaksi
+HAVING COUNT(c.kode_produk) > 1;
