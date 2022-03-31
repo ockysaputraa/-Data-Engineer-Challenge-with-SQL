@@ -18,3 +18,13 @@ Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code E
 Tampilkan hanya nama-nama pelanggan yang hanya memiliki gelar-gelar berikut: S.H, Ir. dan Drs.
 Nama kolom yang harus ditampilkan: no_urut, kode_pelanggan, nama_pelanggan, dan alamat.
 Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code Editor.
+
+# Mengurutkan Nama Pelanggan
+![alt text](https://user-images.githubusercontent.com/25924246/160961544-2282408d-5214-44be-9886-607fb3f093de.png)
+Tampilkan nama-nama pelanggan dan urutkan hasilnya berdasarkan kolom nama_pelanggan dari yang terkecil ke yang terbesar (A ke Z).
+Nama kolom yang harus ditampilkan: nama_pelanggan. Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code Editor.
+
+# Mengurutkan Nama Pelanggan Tanpa Gelar
+![alt text](https://user-images.githubusercontent.com/25924246/160961689-61ed9f6e-39c8-4609-8bc1-f370d5b7ba69.png)
+Tampilkan nama-nama pelanggan dan urutkan hasilnya berdasarkan kolom nama_pelanggan dari yang terkecil ke yang terbesar (A ke Z), namun gelar tidak boleh menjadi bagian dari urutan. Contoh: Ir. Agus Nugraha harus berada di atas Heidi Goh. Nama kolom yang harus ditampilkan: nama_pelanggan.
+Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code Editor.
