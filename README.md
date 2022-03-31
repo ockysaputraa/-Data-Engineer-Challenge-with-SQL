@@ -43,3 +43,9 @@ Nama kolom yang harus ditampilkan: kode_pelanggan, nama_pelanggan, total_harga.S
 ![alt text](https://user-images.githubusercontent.com/25924246/160962028-b813b205-812f-41c8-9d67-5ab0893606b4.png)
 Tampilkan daftar pelanggan yang belum pernah melakukan transaksi. Nama kolom yang harus ditampilkan: kode_pelanggan, nama_pelanggan, alamat.
 Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code Editor.
+
+# Transaksi Belanja dengan Daftar Belanja lebih dari 1
+![alt text](https://user-images.githubusercontent.com/25924246/160966716-a311acfd-e6bb-4a68-9464-81e2fac267d6.png)
+Tampilkan transaksi-transaksi yang memiliki jumlah item produk lebih dari 1 jenis produk. Dengan lain kalimat, tampilkan transaksi-transaksi yang memiliki jumlah baris data pada table tr_penjualan_detail lebih dari satu. Nama kolom yang harus ditampilkan:  kode_transaksi, kode_pelanggan, nama_pelanggan, tanggal_transaksi, jumlah_detail.
+Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code Editor.
+
