@@ -28,3 +28,18 @@ Nama kolom yang harus ditampilkan: nama_pelanggan. Semua table di atas sudah ter
 ![alt text](https://user-images.githubusercontent.com/25924246/160961689-61ed9f6e-39c8-4609-8bc1-f370d5b7ba69.png)
 Tampilkan nama-nama pelanggan dan urutkan hasilnya berdasarkan kolom nama_pelanggan dari yang terkecil ke yang terbesar (A ke Z), namun gelar tidak boleh menjadi bagian dari urutan. Contoh: Ir. Agus Nugraha harus berada di atas Heidi Goh. Nama kolom yang harus ditampilkan: nama_pelanggan.
 Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code Editor.
+
+# Kuantitas Produk yang Banyak Terjual
+![alt text](https://user-images.githubusercontent.com/25924246/160961868-e4dfa404-acdd-4f2e-a6ae-6344f0fd5d92.png)
+Tampilkan produk yang paling banyak terjual dari segi kuantitas. Jika ada lebih dari 1 produk dengan nilai yang sama, tampilkan semua produk tersebut.
+Nama kolom yang harus ditampilkan: kode_produk, nama_produk,total_qty.Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code Editor.
+
+# Pelanggan Paling Tinggi Nilai Belanjanya
+![alt text](https://user-images.githubusercontent.com/25924246/160961945-061cdc18-911d-4ca5-9949-627944e6b9d7.png)
+Siapa saja pelanggan yang paling banyak menghabiskan uangnya untuk belanja? Jika ada lebih dari 1 pelanggan dengan nilai yang sama, tampilkan semua pelanggan tersebut.
+Nama kolom yang harus ditampilkan: kode_pelanggan, nama_pelanggan, total_harga.Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code Editor.
+
+# Pelanggan yang Belum Pernah Berbelanja
+![alt text](https://user-images.githubusercontent.com/25924246/160962028-b813b205-812f-41c8-9d67-5ab0893606b4.png)
+Tampilkan daftar pelanggan yang belum pernah melakukan transaksi. Nama kolom yang harus ditampilkan: kode_pelanggan, nama_pelanggan, alamat.
+Semua table di atas sudah tersedia, Anda tinggal menulis query Anda dalam Code Editor.
